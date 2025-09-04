@@ -10,3 +10,4 @@ Example: GET http://localhost:3000/files
     Example: GET http://localhost:3000/file/example.txt
 - For any other route not defined in the server return 404
 Testing the server - run `npm run test-fileServer` command in terminal
+We have 3 files on server file1.txt, file2.txt and file3.txt please run accordingly... 
